@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.alfredohutagalung1jf.ujian1;
 
 public class Soal1 {
     public static void main(String[] args) {
